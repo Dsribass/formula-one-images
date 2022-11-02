@@ -1,14 +1,14 @@
 {
   "teams": {
-    "alfa": "",
-    "alphatauri": "",
-    "alpine": "",
-    "aston_martin": "",
-    "ferrari": "",
-    "haas": "",
-    "mclaren": "",
-    "mercedes": "",
-    "red_bull": "",
-    "williams": "",
+    "alfa": "https://github.com/Dsribass/formula-one-images/blob/main/teams/alfa-romeo.png?raw=true",
+    "alphatauri": "https://github.com/Dsribass/formula-one-images/blob/main/teams/alpha-tauri.png?raw=true",
+    "alpine": "https://github.com/Dsribass/formula-one-images/blob/main/teams/alpine.png?raw=true",
+    "aston_martin": "https://github.com/Dsribass/formula-one-images/blob/main/teams/aston-martin.png?raw=true",
+    "ferrari": "https://github.com/Dsribass/formula-one-images/blob/main/teams/ferrari.png?raw=true",
+    "haas": "https://github.com/Dsribass/formula-one-images/blob/main/teams/haas.png?raw=true",
+    "mclaren": "https://github.com/Dsribass/formula-one-images/blob/main/teams/mclaren.png?raw=true",
+    "mercedes": "https://github.com/Dsribass/formula-one-images/blob/main/teams/mercedes.png?raw=true",
+    "red_bull": "https://github.com/Dsribass/formula-one-images/blob/main/teams/red-bull.png?raw=true",
+    "williams": "https://github.com/Dsribass/formula-one-images/blob/main/teams/williams.png?raw=true",
   }
 }
